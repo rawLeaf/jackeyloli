@@ -1,0 +1,29 @@
+autoMaxResource = setInterval(()=>{
+
+for(var k in game.resource){
+
+if(game.resource[k].max>0)game.resource[k].amount = game.resource[k].max;
+
+
+},100)
+
+
+clearInterval(autoMaxResource)
+
+
+debug(exportGame)
+ game = t; 
+undebug(exportGame)
+
+game.resource.Brick.amount += 1000000000;
+game.resource.Wrought_Iron.amount += 1000000000;
+game.resource.Sheet_Metal.amount += 1000000000;
+game.resource.Mythril.amount += 1000000000;
+game.resource.Horseshoe.amount += 1000000000;
+game.resource.Soul_Gem.amount += 1000000000;
+Mythril
+game.resource.Aerogel.amount += 100000000;
+game.prestige.Plasmid.count -= 10000;
+game.prestige.Phage.count += 100000000;
+game.resource.Soul_Gem.amount += 100000000;game.resource.Soul_Gem.amount += 10000000;
+game.resource.Soul_Gem.amount += 100000000;
