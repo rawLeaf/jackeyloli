@@ -58,6 +58,7 @@ game.resource.Sheet_Metal.amount += 1000000000;
 game.resource.Mythril.amount += 1000000000;
 game.resource.Horseshoe.amount += 1000000000;
 game.resource.Soul_Gem.amount += 1000000000;
+game.resource.Quantium.amount += 1000000000;
 //Mythril
 game.resource.Aerogel.amount += 100000000;
 Harmony
