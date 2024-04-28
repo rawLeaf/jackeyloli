@@ -59,6 +59,8 @@ game.resource.Mythril.amount += 1000000000;
 game.resource.Horseshoe.amount += 1000000000;
 game.resource.Soul_Gem.amount += 1000000000;
 game.resource.Quantium.amount += 1000000000;
+//纳米织物
+game.resource.Nanoweave.amount += 100000000000;
 //Mythril
 game.resource.Aerogel.amount += 100000000;
 Harmony
