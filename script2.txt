@@ -68,6 +68,8 @@ Harmony
 game.prestige.Harmony.count += 145
 //质粒
 game.prestige.Plasmid.count += 10000;
+//上古遗物
+game.prestige.Artifact.count += 10000;
 game.prestige.Phage.count += 1000000;
 game.resource.Soul_Gem.amount += 100000000;game.resource.Soul_Gem.amount += 10000000;
 game.resource.Soul_Gem.amount += 100000000;
