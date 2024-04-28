@@ -32,7 +32,8 @@ game.resource.Aerogel.amount += 100000000000;
 game.resource.Nanoweave.amount += 100000000000;
 //量子
 game.resource.Quantium.amount += 100000000000;
-
+//菲菲蛇精
+game.resource.Scarletite.amount += 100000000000;
 Nanoweave
 
 autoMaxResource = setInterval(()=>{
