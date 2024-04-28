@@ -26,7 +26,9 @@ game.resource.Nanoweave.amount += 100000000000;
 game.resource.Mythril.amount += 100000000000;
 //加密数据
 game.resource.Cipher.amount += 100000000000;
-
+//气凝胶
+game.resource.Aerogel.amount += 100000000000;
+// 纳米编织
 game.resource.Nanoweave.amount += 100000000000;
 //量子
 game.resource.Quantium.amount += 100000000000;
@@ -61,8 +63,8 @@ game.resource.Soul_Gem.amount += 1000000000;
 game.resource.Quantium.amount += 1000000000;
 //纳米织物
 game.resource.Nanoweave.amount += 100000000000;
-//Mythril
-game.resource.Aerogel.amount += 100000000;
+//气凝胶
+game.resource.Aerogel.amount += 100000000000;
 Harmony
 //和谐水晶
 game.prestige.Harmony.count += 145
