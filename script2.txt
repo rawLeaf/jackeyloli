@@ -48,7 +48,7 @@ clearInterval(autoMaxResource)
 
 
 debug(exportGame)
- game = t; 
+ game = e; 
 undebug(exportGame)
 //骸骨
 game.resource.Plywood.amount += 1000000000;
