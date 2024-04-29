@@ -73,6 +73,8 @@ game.prestige.Harmony.count += 145
 game.prestige.Plasmid.count += 10000;
 //上古遗物
 game.prestige.Artifact.count += 10000;
+//鲜血之石
+game.prestige.Blood_Stone.count += 1000000;
 game.prestige.AICore.count += 1000;
 game.prestige.Phage.count += 1000000;
 game.resource.Soul_Gem.amount += 100000000;game.resource.Soul_Gem.amount += 10000000;
