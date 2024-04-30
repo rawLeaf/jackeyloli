@@ -36,6 +36,9 @@ game.resource.Quantium.amount += 100000000000;
 game.resource.Scarletite.amount += 100000000000;
 //湿布
 game.resource.Horseshoe.amount +=  100000000000;
+
+game.resource.Soul_Gem.amount += 100000000;
+
 Nanoweave
 
 autoMaxResource = setInterval(()=>{
