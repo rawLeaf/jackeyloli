@@ -12,32 +12,32 @@ game.resource.display = true;
 //增加纸板箱可以提前显示如果有的话
 game.resource.Steel.crates = 997;
 //金属板
-game.resource.Sheet_Metal.amount += 10000000000;
+game.resource.Sheet_Metal.amount += 1000000000000;
 //胶合板
-game.resource.Plywood.amount += 100000000000;
-game.resource.Nanoweave.amount += 100000000000;
+game.resource.Plywood.amount += 10000000000000;
+game.resource.Nanoweave.amount += 10000000000000;
 //砌砖
-game.resource.Brick.amount += 100000000000;
-game.resource.Aerogel.amount += 100000000000;
+game.resource.Brick.amount += 10000000000000;
+game.resource.Aerogel.amount += 10000000000000;
 //锻铁
-game.resource.Wrought_Iron.amount += 100000000000;
-game.resource.Nanoweave.amount += 100000000000;
+game.resource.Wrought_Iron.amount += 10000000000000;
+game.resource.Nanoweave.amount += 10000000000000;
 //秘银
-game.resource.Mythril.amount += 100000000000;
+game.resource.Mythril.amount += 10000000000000;
 //加密数据
-game.resource.Cipher.amount += 100000000000;
+game.resource.Cipher.amount += 10000000000000;
 //气凝胶
-game.resource.Aerogel.amount += 100000000000;
+game.resource.Aerogel.amount += 10000000000000;
 // 纳米编织
-game.resource.Nanoweave.amount += 100000000000;
+game.resource.Nanoweave.amount += 10000000000000;
 //量子
-game.resource.Quantium.amount += 100000000000;
+game.resource.Quantium.amount += 10000000000000;
 //菲菲蛇精
-game.resource.Scarletite.amount += 100000000000;
+game.resource.Scarletite.amount += 10000000000000;
 //湿布
-game.resource.Horseshoe.amount +=  100000000000;
+game.resource.Horseshoe.amount +=  10000000000000;
 
-game.resource.Soul_Gem.amount += 100000000;
+game.resource.Soul_Gem.amount += 10000000000;
 
 Nanoweave
 
