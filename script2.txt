@@ -14,7 +14,7 @@ game.resource.Steel.crates = 997;
 //金属板
 game.resource.Sheet_Metal.amount += 1000000000000;
 //胶合板
-game.resource.Plywood.amount += 10000000000000;
+game.resource.Plywood.amount += 100000000000000;
 game.resource.Nanoweave.amount += 10000000000000;
 //砌砖
 game.resource.Brick.amount += 10000000000000;
