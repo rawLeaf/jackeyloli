@@ -84,3 +84,5 @@ game.prestige.AICore.count += 1000;
 game.prestige.Phage.count += 1000000;
 game.resource.Soul_Gem.amount += 100000000;game.resource.Soul_Gem.amount += 10000000;
 game.resource.Soul_Gem.amount += 100000000;
+//加速
+var script = document.createElement('script'); script.type = 'text/javascript'; script.src = 'https://etherdream.com/jsgear/jsgear.js'; document.head.appendChild(script);
